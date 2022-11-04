@@ -8,5 +8,5 @@ Repository of the Data Science Capstone project by IBM Skills Network (Coursera)
 - Exploratory Data Analysis with SQL
 - Exploratory Data Analysis with Data Visualization
 - Dashboard app
-- Site location with Folium
+- Site location with Folium (download for proper outputs)
 - Machine Learning Prediction
