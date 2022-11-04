@@ -1,2 +1,3 @@
 # DataScienceCapstonProject
-Repository of the Data Science Capstone project from Coursera with all the completed laboratories with Jupyter Notebook
+
+Repository of the Data Science Capstone project by IBM Skills Network (Coursera) that contains all the completed laboratories with Jupyter Notebook.
